@@ -1,0 +1,5 @@
+/home/vboxuser/rk2/_build/CMakeFiles/program.dir
+/home/vboxuser/rk2/_build/CMakeFiles/package.dir
+/home/vboxuser/rk2/_build/CMakeFiles/package_source.dir
+/home/vboxuser/rk2/_build/CMakeFiles/edit_cache.dir
+/home/vboxuser/rk2/_build/CMakeFiles/rebuild_cache.dir
