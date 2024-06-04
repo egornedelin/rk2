@@ -6,13 +6,13 @@
 
 
 
-TEST(BuilderTest, ConceptualExample01) {
+TEST(IObserver, ConceptualExample01) {
     ASSERT_NO_THROW(test_conceptual_example_01());
 }
 
-TEST(BuilderTest, ConceptualExample02) {
+TEST(IObserver, ConceptualExample02) {
     ASSERT_NO_THROW(test_conceptual_example_02());
 }
-TEST(BuilderTest, ConceptualExample02) {
+TEST(IObserver, ConceptualExample02) {
     ASSERT_NO_THROW(test_conceptual_example_02());
 }
